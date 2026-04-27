@@ -1,0 +1,32 @@
+[
+    {
+        "id": "pasal_106_ayat_8",
+        "title": "Kewajiban Menggunakan Helm Standar Nasional Indonesia",
+        "content": "Setiap orang yang mengemudikan Sepeda Motor dan Penumpang Sepeda Motor wajib mengenakan helm yang memenuhi standar nasional Indonesia. Pelanggaran terhadap aturan ini dapat dikenakan sanksi.",
+        "penalty": "Dipidana dengan pidana kurungan paling lama 1 (satu) bulan atau denda paling banyak Rp250.000,00 (dua ratus lima puluh ribu rupiah)."
+    },
+    {
+        "id": "pasal_281",
+        "title": "Kewajiban Memiliki Surat Izin Mengemudi (SIM)",
+        "content": "Setiap orang yang mengemudikan Kendaraan Bermotor di Jalan wajib memiliki Surat Izin Mengemudi sesuai dengan jenis Kendaraan Bermotor yang dikemudikan. Jika tidak memiliki SIM, maka melanggar hukum.",
+        "penalty": "Dipidana dengan pidana kurungan paling lama 4 (empat) bulan atau denda paling banyak Rp1.000.000,00 (satu juta rupiah)."
+    },
+    {
+        "id": "pasal_287_ayat_1",
+        "title": "Pelanggaran Rambu Lalu Lintas dan Marka Jalan",
+        "content": "Setiap orang yang mengemudikan Kendaraan Bermotor di Jalan yang melanggar aturan perintah atau larangan yang dinyatakan dengan Rambu Lalu Lintas atau Marka Jalan.",
+        "penalty": "Dipidana dengan pidana kurungan paling lama 2 (dua) bulan atau denda paling banyak Rp500.000,00 (lima ratus ribu rupiah)."
+    },
+    {
+        "id": "pasal_287_ayat_5",
+        "title": "Pelanggaran Batas Kecepatan Maksimal atau Minimal",
+        "content": "Setiap orang yang mengemudikan Kendaraan Bermotor di Jalan yang melanggar aturan batas kecepatan paling tinggi atau paling rendah.",
+        "penalty": "Dipidana dengan pidana kurungan paling lama 2 (dua) bulan atau denda paling banyak Rp500.000,00 (lima ratus ribu rupiah)."
+    },
+    {
+        "id": "pasal_288_ayat_1",
+        "title": "Kewajiban Membawa STNK",
+        "content": "Setiap orang yang mengemudikan Kendaraan Bermotor di Jalan yang tidak dilengkapi dengan Surat Tanda Nomor Kendaraan Bermotor atau Surat Tanda Coba Kendaraan Bermotor yang ditetapkan oleh Kepolisian Negara Republik Indonesia.",
+        "penalty": "Dipidana dengan pidana kurungan paling lama 2 (dua) bulan atau denda paling banyak Rp500.000,00 (lima ratus ribu rupiah)."
+    }
+]
